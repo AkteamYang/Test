@@ -7,7 +7,6 @@
 //
 
 #import "TestView.h"
-#import "UIView+Test.h"
 
 @implementation TestView
 
